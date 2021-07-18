@@ -1,0 +1,22 @@
+{
+  "name": "vite-test",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.0.5",
+    "vue-router": "^4.0.10"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.5",
+    "@vue/compiler-sfc": "^3.0.5",
+    "node-sass": "^6.0.1",
+    "sass": "^1.35.2",
+    "sass-loader": "^12.1.0",
+    "scss": "^0.2.4",
+    "vite": "^2.4.2"
+  }
+}
